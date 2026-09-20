@@ -5,7 +5,7 @@ AI/ML • Generative AI • AI Product Management • Product Engineering
 
 I build software and AI systems that turn ideas into useful products.
 
-Currently exploring the intersection of **AI, software engineering, and product development** — from deep learning research and medical imaging to LLM applications, AI agents, and full-stack products.
+Currently exploring the intersection of **AI, software engineering, and product development** from deep learning research and medical imaging to LLM applications, AI agents, and full-stack products.
 
 ---
 
