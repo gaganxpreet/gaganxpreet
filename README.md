@@ -54,4 +54,4 @@ Git · GitHub · Linux · Docker · CUDA · AWS
 
 ### Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/gaganpreet-singh1313/) · [Email](mailto:phullpreet2004@gmail.com)
