@@ -1,21 +1,57 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hey! I'm **Gaganpreet Singh** — a **Computer Science & Data Science student at NSUT**, AI/ML researcher, and product-minded developer.<br><br>I like building at the intersection of **AI, software engineering, and products** — whether that's training deep learning models, building AI agents, developing full-stack applications, or experimenting with ideas that could become real products.<br><br>- 🔭 **I’m currently working on:** **Generative AI, AI Agents, RAG applications, Full-Stack products, and Deep Learning research in Medical Imaging.**<br>- 🤝 **I’m looking to collaborate on:** **Open Source, AI/ML research, Generative AI, AI Agents, developer tools, and ambitious product ideas.**<br>- 🛠️ **I’m looking for help with:** Making AI systems more **reliable, scalable, observable, and production-ready**.<br>- 🌱 **I’m currently learning:** **LLM Engineering, LangChain, LangGraph, MCP, advanced RAG, MLOps, Cloud Deployment, and System Design.**<br>- 💬 **Ask me about:** **Python, PyTorch, React, Next.js, FastAPI, Machine Learning, Generative AI, RAG, AI Agents, Medical Imaging, or Full-Stack Development.**<br>- ⚡ **Fun fact:** I enjoy going down technical rabbit holes — one day it might be **3D visualization**, the next **brain tumor segmentation**, and the next an **AI product prototype**.
+# Gaganpreet Singh
 
+Computer Science & Data Science @ NSUT  
+AI/ML • Generative AI • Full-Stack Development • Product Engineering
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaganpreet-singh1313/) 
+I build software and AI systems that turn ideas into useful products.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gaganxpreet&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gaganxpreet&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gaganxpreet&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+Currently exploring the intersection of **AI, software engineering, and product development** — from deep learning research and medical imaging to LLM applications, AI agents, and full-stack products.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gaganxpreet&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Currently
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Working on **AI/ML research, Generative AI applications, AI agents, and full-stack products**
+- Exploring **RAG, LLM engineering, agentic systems, and AI-powered developer tools**
+- Building projects with **Python, PyTorch, React, Next.js, FastAPI, and PostgreSQL**
+- Contributing to and learning from **open-source projects**
+
+## Looking to collaborate on
+
+**AI/ML • Generative AI • AI Agents • RAG • Open Source • Full-Stack Applications • Developer Tools • Product Engineering**
+
+I’m especially interested in projects that solve real-world problems and have room for experimentation, engineering, and impact.
+
+## Currently learning
+
+**LLM Engineering • LangChain • LangGraph • MCP • Advanced RAG • MLOps • Cloud Deployment • System Design**
+
+## Ask me about
+
+**Python, PyTorch, Machine Learning, Deep Learning, Computer Vision, Medical Imaging, Generative AI, RAG, AI Agents, React, Next.js, FastAPI, and building products from scratch.**
+
+## Fun fact
+
+I enjoy moving between very different areas of technology — from **training deep learning models and working with medical images** to **building AI agents and interactive web applications**.
+
+---
+
+### Tech I work with
+
+**Languages**  
+Python · C++ · JavaScript · TypeScript · SQL
+
+**AI / ML**  
+PyTorch · MONAI · Scikit-learn · Computer Vision · Deep Learning · Generative AI · RAG · AI Agents
+
+**Development**  
+React · Next.js · FastAPI · Flask · Node.js · PostgreSQL · Supabase
+
+**Tools & Infrastructure**  
+Git · GitHub · Linux · Docker · CUDA · AWS
+
+---
+
+### Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL)
