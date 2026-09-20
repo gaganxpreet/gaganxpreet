@@ -1,7 +1,7 @@
 # Gaganpreet Singh
 
 Computer Science & Data Science @ NSUT  
-AI/ML • Generative AI • Full-Stack Development • Product Engineering
+AI/ML • Generative AI • AI Product Management • Product Engineering
 
 I build software and AI systems that turn ideas into useful products.
 
